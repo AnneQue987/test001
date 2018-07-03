@@ -15,4 +15,4 @@ class Article(models.Model) :
         ordering = ['-date_time']
 
 
-# Create your models here.
+

@@ -14,6 +14,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'article',
+    'article.templatetags.custom_markdown',
 )
 
 MIDDLEWARE_CLASSES = (
